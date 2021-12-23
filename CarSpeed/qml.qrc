@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>speed.png</file>
+        <file>SpeedNeedle.qml</file>
+        <file>speed2.png</file>
+    </qresource>
+</RCC>
